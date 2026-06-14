@@ -25,4 +25,9 @@ El repositorio está organizado por capas de abstracción para facilitar la comb
  ┃ ┃ ┗ 📜 dotnet-core-rules.md   # Clean Architecture, Inyección de dependencias, C#.
  ┃ ┗ 📂 nodejs/
  ┃   ┗ 📜 nodejs-express.md      # Arquitectura de Middlewares, manejo de errores.
+ ┃
+ ┣ 📂 database-rules/            # Gestión de persistencia y almacenamiento
+ ┃ ┣ 📜 sql-server-indexing.md   # Estrategia de índices y tipos de datos en SQL Server.
+ ┃ ┗ 📜 sql-server-procedures-functions.md # Uso óptimo de Stored Procedures y iTVFs.
+ ┃
  ┗ 📜 README.md                  # Esta guía de uso.
